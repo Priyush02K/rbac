@@ -2,7 +2,7 @@
 
 This project is a **Role-Based Access Control (RBAC) UI** built with **React**. It provides an intuitive interface for managing users, roles, and permissions in an application. The goal of the project is to facilitate efficient role-based access management while ensuring a clean and modern user experience.
 
-## 📖 Project Overview
+## 📖 Project Overview :
 
 - **Objective**: Develop a responsive dashboard for RBAC, allowing admins to manage users, roles, and permissions effortlessly.
 - **Key Features**:
@@ -13,7 +13,7 @@ This project is a **Role-Based Access Control (RBAC) UI** built with **React**. 
 
 ## 🛠️ My Role
 
-I implemented the **RBAC UI** as part of [insert context, e.g., an internship assignment or personal project]. My contributions include:
+I implemented the **RBAC UI** as part of [VRV Security’s Frontend Developer Intern Assignment]. My contributions include:
 
 - Designing the **React-based** frontend using **Tailwind CSS** for styling.
 - Implementing reusable components for cards and navigation.
@@ -22,7 +22,7 @@ I implemented the **RBAC UI** as part of [insert context, e.g., an internship as
 
 ## 🌐 Live Demo
 
-- **Live Deployment**: [View Live Project](https://your-live-demo-url.com)
+- **Live Deployment**: [View Live Project](https://rbacnew2024.netlify.app/)
 - **GitHub Repository**: [rbac](https://github.com/Priyush02K/rbac)
 
 ## 🚀 How to Run the Project
@@ -39,7 +39,7 @@ I implemented the **RBAC UI** as part of [insert context, e.g., an internship as
 3. Run the development server:
    ```bash
    npm run dev
-
+   
 4. Open the app in your browser:
    ```bash
    http://localhost:5173
@@ -63,7 +63,6 @@ I implemented the **RBAC UI** as part of [insert context, e.g., an internship as
 Add screenshots here if you have them to make the README visually appealing!
 
 ## 📬 Contact:
-Author: Priyush Khobragade
-LinkedIn: https://www.linkedin.com/in/priyush-khobragade
-Email: khobragadepriyush.dev@gmail.com
-
+- Author: Priyush Khobragade
+- LinkedIn: https://www.linkedin.com/in/priyush-khobragade
+- Email: khobragadepriyush.dev@gmail.com
