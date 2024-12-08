@@ -33,8 +33,8 @@ I implemented the **RBAC UI** as part of [insert context, e.g., an internship as
    cd rbac
 
 2. Install dependencies:
-  ```bash
-    npm install
+   ```bash
+   npm install
 
 3. Run the development server:
   ```bash
